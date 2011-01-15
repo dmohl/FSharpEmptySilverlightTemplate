@@ -1,0 +1,8 @@
+C:\git\FSharpSilverlightApp\VSIX\FSharpSilverlightApp\bin\Debug\ProjectTemplates\Silverlight\FSharpSLApp.zip
+C:\git\FSharpSilverlightApp\VSIX\FSharpSilverlightApp\bin\Debug\MicrosoftPublicLicense.txt
+C:\git\FSharpSilverlightApp\VSIX\FSharpSilverlightApp\bin\Debug\FSharpSilverlightApp.vsix
+C:\git\FSharpSilverlightApp\VSIX\FSharpSilverlightApp\bin\Debug\extension.vsixmanifest
+C:\git\FSharpSilverlightApp\VSIX\FSharpSilverlightApp\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpSilverlightApp\VSIX\FSharpSilverlightApp\obj\Debug\FSharpSilverlightApp.dll
+C:\git\FSharpSilverlightApp\VSIX\FSharpSilverlightApp\obj\Debug\FSharpSilverlightApp.pdb
+C:\git\FSharpSilverlightApp\VSIX\FSharpSilverlightApp\obj\Debug\extension.vsixmanifest

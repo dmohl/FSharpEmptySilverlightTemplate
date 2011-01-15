@@ -1,0 +1,11 @@
+﻿<xapCache source="C:\git\FSharpEmptySilverlightTemplate\src\App\bin\Release\App.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="1/15/2011 10:04:37 AM">
+  <file source="C:\git\FSharpEmptySilverlightTemplate\src\App\obj\Release\App.dll" archivePath="App.dll" lastWriteTime="1/15/2011 10:04:35 AM" />
+  <file source="C:\Program Files (x86)\Microsoft F#\Silverlight\Libraries\Client\v4.0\FSharp.Core.dll" archivePath="FSharp.Core.dll" lastWriteTime="7/6/2010 2:41:04 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="8/26/2010 2:17:48 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Data.dll" archivePath="System.Windows.Controls.Data.dll" lastWriteTime="8/26/2010 2:17:48 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Data.Input.dll" archivePath="System.Windows.Controls.Data.Input.dll" lastWriteTime="8/26/2010 2:17:48 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Input.dll" archivePath="System.Windows.Controls.Input.dll" lastWriteTime="8/26/2010 2:17:48 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Data.dll" archivePath="System.Windows.Data.dll" lastWriteTime="8/26/2010 2:17:48 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="8/26/2010 2:17:48 AM" />
+  <file source="C:\git\FSharpEmptySilverlightTemplate\src\App\bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="1/15/2011 10:04:36 AM" />
+</xapCache>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>App</name></assembly>
+<members>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:FSharpSilverlightTemplate.Utilities.op_Dynamic``1(System.Object,System.String)">
+<summary>
+ Use this implementation of the dynamic binding operator
+ to bind to Xaml components in code-behind, see example below
+</summary>
+</member>
+<member name="T:FSharpSilverlightTemplate.Utilities">
+
+</member>
+</members>
+</doc>
