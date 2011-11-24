@@ -1,5 +1,0 @@
-C:\git\FSharpEmptySilverlightTemplate\src\Web\bin\Web.dll
-C:\git\FSharpEmptySilverlightTemplate\src\Web\bin\Web.pdb
-C:\git\FSharpEmptySilverlightTemplate\src\Web\obj\Release\ResolveAssemblyReference.cache
-C:\git\FSharpEmptySilverlightTemplate\src\Web\obj\Release\Web.dll
-C:\git\FSharpEmptySilverlightTemplate\src\Web\obj\Release\Web.pdb

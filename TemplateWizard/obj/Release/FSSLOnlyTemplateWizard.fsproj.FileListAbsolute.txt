@@ -1,0 +1,16 @@
+C:\git\F--Silverlight-App.-Templates\TemplateWizard\bin\Release\FSSLOnlyTemplateWizard.XML
+C:\git\F--Silverlight-App.-Templates\TemplateWizard\bin\Release\FSSLOnlyTemplateWizard.dll
+C:\git\F--Silverlight-App.-Templates\TemplateWizard\bin\Release\FSSLOnlyTemplateWizard.pdb
+C:\git\F--Silverlight-App.-Templates\TemplateWizard\bin\Release\FSSLOnlyDialog.dll
+C:\git\F--Silverlight-App.-Templates\TemplateWizard\bin\Release\FSSLOnlyDialog.pdb
+C:\git\F--Silverlight-App.-Templates\TemplateWizard\obj\Release\ResolveAssemblyReference.cache
+C:\git\F--Silverlight-App.-Templates\TemplateWizard\obj\Release\FSSLOnlyTemplateWizard.dll
+C:\git\F--Silverlight-App.-Templates\TemplateWizard\obj\Release\FSSLOnlyTemplateWizard.pdb
+C:\git\FSharpEmptySilverlightTemplate\TemplateWizard\bin\Release\FSSLOnlyTemplateWizard.XML
+C:\git\FSharpEmptySilverlightTemplate\TemplateWizard\bin\Release\FSSLOnlyTemplateWizard.dll
+C:\git\FSharpEmptySilverlightTemplate\TemplateWizard\bin\Release\FSSLOnlyTemplateWizard.pdb
+C:\git\FSharpEmptySilverlightTemplate\TemplateWizard\bin\Release\FSSLOnlyDialog.dll
+C:\git\FSharpEmptySilverlightTemplate\TemplateWizard\bin\Release\FSSLOnlyDialog.pdb
+C:\git\FSharpEmptySilverlightTemplate\TemplateWizard\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpEmptySilverlightTemplate\TemplateWizard\obj\Release\FSSLOnlyTemplateWizard.dll
+C:\git\FSharpEmptySilverlightTemplate\TemplateWizard\obj\Release\FSSLOnlyTemplateWizard.pdb

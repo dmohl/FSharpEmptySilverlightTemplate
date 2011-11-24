@@ -24,3 +24,8 @@ C:\git\FSharpEmptySilverlightTemplate\VSIX\FSharpSilverlightApp\obj\Release\FSha
 C:\git\FSharpEmptySilverlightTemplate\VSIX\FSharpSilverlightApp\obj\Release\FSharpEmptySilverlightApp.pdb
 C:\git\FSharpEmptySilverlightTemplate\VSIX\FSharpSilverlightApp\obj\Release\extension.vsixmanifest
 C:\git\FSharpEmptySilverlightTemplate\VSIX\FSharpSilverlightApp\bin\Release\ProjectTemplates\Silverlight\FSharpEmptySLApp.zip
+C:\git\FSharpEmptySilverlightTemplate\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyDialog.dll
+C:\git\FSharpEmptySilverlightTemplate\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyTemplateWizard.dll
+C:\git\FSharpEmptySilverlightTemplate\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyDialog.pdb
+C:\git\FSharpEmptySilverlightTemplate\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyTemplateWizard.pdb
+C:\git\FSharpEmptySilverlightTemplate\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyTemplateWizard.xml
