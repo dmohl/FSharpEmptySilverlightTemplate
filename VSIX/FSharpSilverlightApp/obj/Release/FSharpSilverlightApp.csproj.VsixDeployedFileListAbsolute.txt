@@ -25,3 +25,10 @@ C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Web Application (Silverlight)\1.1\\MicrosoftPublicLicense.txt
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Web Application (Silverlight)\1.1\\FSSLOnlyDialog.pdb
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Web Application (Silverlight)\1.1\\FSSLOnlyTemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Web Application (Silverlight)\1.2\\FSSLOnlyDialog.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Web Application (Silverlight)\1.2\\FSSLOnlyTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Web Application (Silverlight)\1.2\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Web Application (Silverlight)\1.2\ProjectTemplates\Silverlight\\FSharpEmptySLApp.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Web Application (Silverlight)\1.2\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Web Application (Silverlight)\1.2\\FSSLOnlyDialog.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Web Application (Silverlight)\1.2\\FSSLOnlyTemplateWizard.pdb

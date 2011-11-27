@@ -3,7 +3,7 @@
   <Identifier Id="FSharpEmptySilverlightApp..c7389738d-80ed-40b7-b2d3-9f27247585ae">
     <Name>F# Empty Web Application (Silverlight)</Name>
     <Author>Daniel Mohl</Author>
-    <Version>1.1</Version>
+    <Version>1.2</Version>
     <Description xml:space="preserve">F# Empty Web Application (Silverlight)</Description>
     <Locale>1033</Locale>
     <License>MicrosoftPublicLicense.txt</License>
@@ -25,7 +25,7 @@
   </Identifier>
   <References />
   <Content>
-    <Assembly AssemblyName="FSSLOnlyTemplateWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ba79043a32149735">FSSLOnlyTemplateWizard.dll</Assembly>
+    <Assembly AssemblyName="FSSLOnlyTemplateWizard, Version=1.1.0.0, Culture=neutral, PublicKeyToken=ba79043a32149735">FSSLOnlyTemplateWizard.dll</Assembly>
     <Assembly AssemblyName="FSSLOnlyDialog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6db65b46e659a2ac">FSSLOnlyDialog.dll</Assembly>
     <ProjectTemplate>ProjectTemplates</ProjectTemplate>
   </Content>

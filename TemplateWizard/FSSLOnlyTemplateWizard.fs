@@ -11,7 +11,12 @@ type TemplateWizard() =
     interface IWizard with
         member x.RunStarted (automationObject:Object, replacementsDictionary:Dictionary<string,string>, 
                              runKind:WizardRunKind, customParams:Object[]) =
-            let x86Path = Environment.GetFolderPath(Environment.SpecialFolder.ProgramFilesX86)
+            let x86Path = 
+                match Environment.GetFolderPath(Environment.SpecialFolder.ProgramFilesX86) with
+                | progFiles when String.IsNullOrEmpty progFiles -> 
+                    Environment.GetFolderPath(Environment.SpecialFolder.ProgramFiles)
+                | _ -> 
+                    Environment.GetFolderPath(Environment.SpecialFolder.ProgramFilesX86)
             let sl4Exists = Directory.Exists(Path.Combine(x86Path, @"Microsoft F#\Silverlight\Libraries\Client\v4.0"))
             let sl5Exists = Directory.Exists(Path.Combine(x86Path, @"Microsoft F#\Silverlight\Libraries\Client\v5.0"))
             match sl4Exists, sl5Exists with
